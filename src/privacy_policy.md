@@ -6,6 +6,6 @@ OminiProduction ("we," "us," or "our") respects your privacy. This app is a simp
 - No Third-Party Sharing: No analytics, advertising, or tracking tools are included.
 - Permissions: This app requests no permissions and does not access device features like location, camera, or contacts.
 - Changes: We may update this policy; check back for the latest version.
-- Contact: For questions, email [omini0241@gmail.com].
+- Contact: For questions, email [contact@ominiproduction.com].
 
 By using this app, you agree to these terms. If you're concerned about data from Google Play itself, see Google's privacy policy: https://policies.google.com/privacy.
